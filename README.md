@@ -8,7 +8,7 @@
 
 Nesse projeto, eu realizei uma análise dos números da pandemia no Brasil. Com a biblioteca pandas e matplotlib, foi possível verificar quais as variáveis estavam presentes no conjunto de dados, representar visualmente os dados e apresentar de forma visual as relações entre as variáveis.
 
-[Link para o projeto completo]()
+[Link para o projeto completo](https://github.com/matheusgsaraiva/COVID-19_Brasil_proj/blob/main/PROJETO_Panorama_do_COVID_19_no_Brasil.ipynb)
 
 **Links para me acharem:**
 * [LinkedIn](https://www.linkedin.com/in/mgsaraiva/)
