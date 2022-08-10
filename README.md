@@ -14,5 +14,5 @@ Nesse projeto, eu realizei uma análise dos números da pandemia no Brasil. Com 
 * [LinkedIn](https://www.linkedin.com/in/mgsaraiva/)
 
 
-## Outros Projetos Meus (em breve!)
+## Outros Projetos Meus
 * **Analisando os Dados do Airbnb:** https://bit.ly/3p8ACtX
