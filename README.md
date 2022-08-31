@@ -16,3 +16,4 @@ Nesse projeto, eu realizei uma análise dos números da pandemia no Brasil. Com 
 
 ## Outros Projetos Meus
 * **Analisando os Dados do Airbnb:** https://bit.ly/3p8ACtX
+* **Detecção de fraude em cartões de crédito:** https://bit.ly/3Q31whK
