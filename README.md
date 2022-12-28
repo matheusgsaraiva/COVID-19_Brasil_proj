@@ -4,16 +4,16 @@
   <img src="https://img.freepik.com/free-vector/big-data-research-coronavirus-disease-3d-illustration-virus-data-cloud-futuristic-virology-analysis-sars-pathogen-exploraion-concept_1217-1664.jpg?w=1380&t=st=1660139262~exp=1660139862~hmac=2a50278c0cd67defcefa019867a4fb1730de70beaaab53561216f62107638be9" alt="imagem maneira relacionada ao projeto"height=400px >
 </p>
 
-## Análise do número de casos e mortes decorrentes da COVID-19 no Brasil no dia 08/08/2022
+## Analysis of the number of cases and deaths from COVID-19 in Brazil on 08/08/2022
 
-Nesse projeto, eu realizei uma análise dos números da pandemia no Brasil. Com a biblioteca pandas e matplotlib, foi possível verificar quais as variáveis estavam presentes no conjunto de dados, representar visualmente os dados e apresentar de forma visual as relações entre as variáveis.
+In this project, I have performed an analysis of the pandemic numbers in Brazil. With the pandas library and matplotlib, it was possible to verify which variables were present in the data set, visually represent the data and present the relationships between the variables in a visual way.
 
-[Link para o projeto completo](https://github.com/matheusgsaraiva/COVID-19_Brasil_proj/blob/main/PROJETO_Panorama_do_COVID_19_no_Brasil.ipynb)
+[Link to the project](https://github.com/matheusgsaraiva/COVID-19_Brasil_proj/blob/main/PROJETO_Panorama_do_COVID_19_no_Brasil.ipynb)
 
-**Links para me acharem:**
+**Links to find me:**
 * [LinkedIn](https://www.linkedin.com/in/mgsaraiva/)
 
 
-## Outros Projetos Meus
-* **Analisando os Dados do Airbnb:** https://bit.ly/3p8ACtX
-* **Detecção de fraude em cartões de crédito:** https://bit.ly/3Q31whK
+## My Other Projects
+* **Analyzing Airbnb Data:** https://bit.ly/3p8ACtX
+* **Credit Card Fraud Detection:** https://bit.ly/3Q31whK
