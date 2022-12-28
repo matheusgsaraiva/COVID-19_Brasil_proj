@@ -15,5 +15,5 @@ In this project, I have performed an analysis of the pandemic numbers (cases and
  
 
 ## My Other Projects
-* **Analyzing Airbnb Data:** https://bit.ly/3p8ACtX
+* **Analyzing Airbnb Data in Lyon-FR:** https://bit.ly/3p8ACtX
 * **Credit Card Fraud Detection:** https://bit.ly/3Q31whK
