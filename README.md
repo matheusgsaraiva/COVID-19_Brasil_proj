@@ -12,7 +12,7 @@ In this project, I have performed an analysis of the pandemic numbers in Brazil.
 
 **Links to find me:**
 * [LinkedIn](https://www.linkedin.com/in/mgsaraiva/)
-
+ 
 
 ## My Other Projects
 * **Analyzing Airbnb Data:** https://bit.ly/3p8ACtX
