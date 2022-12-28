@@ -8,7 +8,7 @@
 
 In this project, I have performed an analysis of the pandemic numbers in Brazil. With the pandas and matplotlib libraries, it was possible to verify which variables were present in the data set, visually represent the data and present the relationships between the variables in a visual way.
 
-[Link to the project](https://github.com/matheusgsaraiva/COVID-19_Brasil_proj/blob/main/PROJETO_Panorama_do_COVID_19_no_Brasil.ipynb)
+[Link to the project](https://github.com/matheusgsaraiva/COVID-19_Brazil_proj/blob/main/PROJETO_Overview_of_COVID_19_in_Brazil.ipynb)
 
 **Links to find me:**
 * [LinkedIn](https://www.linkedin.com/in/mgsaraiva/)
